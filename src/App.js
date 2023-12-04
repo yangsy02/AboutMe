@@ -7,7 +7,7 @@ const Introduce = () => (
     <p>2001.02.11</p>
     <p>컴퓨터공학전공</p>
     <p>@se0_yeonn</p>
-    <p>010-7655-1817</p>
+    <p>yangsy02</p>
     <p>yseoyeon@duksung.ac.kr</p>
   </div>
 );
